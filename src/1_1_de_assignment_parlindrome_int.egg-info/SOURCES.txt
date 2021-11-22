@@ -1,0 +1,6 @@
+setup.py
+src/1_1_de_assignment_parlindrome_int.egg-info/PKG-INFO
+src/1_1_de_assignment_parlindrome_int.egg-info/SOURCES.txt
+src/1_1_de_assignment_parlindrome_int.egg-info/dependency_links.txt
+src/1_1_de_assignment_parlindrome_int.egg-info/top_level.txt
+test/test_parlindrome_int.py
